@@ -1,0 +1,55 @@
+.card{
+ 
+    
+    background-color: rgb(33, 123, 197);
+    border: 3px;
+   padding:3px;
+    margin: 3px;
+    border-color:black
+    
+    
+    
+    
+}
+.img{
+    float:right;
+    padding-right: 300px;
+    
+    padding-bottom: 300px;
+    border-radius: 4px;
+    margin-inline: 2px;
+    width: 10%;
+    
+}
+body{
+    background-color:rgba(99, 76, 49, 0.705);
+}
+.main-footer{
+    background-color: blueviolet;
+}
+@media screen and (max-width: 400px),
+screen and (orientation: landscape){
+    body{
+        color:rgba(166, 170, 35, 0.553);
+        background-color: aqua;
+    }
+    .img{
+       align-items: baseline;
+       align-items: flex-end;
+       
+    }
+    
+}
+
+.container{
+   
+    background-color: rgb(151, 86, 6);
+}
+h4{
+    color: antiquewhite;
+}
+.hi{
+    color: blanchedalmond;
+}
+
+
